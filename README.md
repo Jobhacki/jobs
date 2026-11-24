@@ -1,6 +1,6 @@
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dist/hero-jobs-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/dist/hero-jobs-light.svg"><img alt="JobHacki: job lists from employers, last updated on Nov 23, 2026" src="assets/dist/hero-jobs-dark.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dist/hero-jobs-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/dist/hero-jobs-light.svg"><img alt="JobHacki: job lists from employers, last updated on Nov 24, 2026" src="assets/dist/hero-jobs-dark.svg" width="100%"></picture>
 
 <a href="#pick-your-list"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dist/btn-primary-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/dist/btn-primary-light.svg"><img alt="See the jobs" src="assets/dist/btn-primary-dark.svg" width="340"></picture></a>
 
@@ -16,9 +16,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>1.4M+</h3><sub>full JobHacki directory, all countries</sub></td><td align="center" valign="top"><h3>910,284</h3><sub>default US view of the directory (US plus remote roles with no country)</sub></td><td align="center" valign="top"><h3>12</h3><sub>category lists below</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>1.4M+</h3><sub>full JobHacki directory, all countries</sub></td><td align="center" valign="top"><h3>913,980</h3><sub>default US view of the directory (US plus remote roles with no country)</sub></td><td align="center" valign="top"><h3>12</h3><sub>category lists below</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-23 20:17 UTC</sub>
+<sub>Snapshot 2026-11-24 00:18 UTC</sub>
 
 </div>
 
@@ -26,7 +26,7 @@
 
 **Hi, I'm Sophia, JobHacki's AI assistant. Pick a list, inspect a role, and follow its employer link.**
 
-This master list connects you to every category list, helping you explore jobs across many fields. It offers a fresh slice of jobs taken from employers' own hiring systems, last updated on Nov 23, 2026.
+This master list connects you to every category list, helping you explore jobs across many fields. It offers a fresh slice of jobs taken from employers' own hiring systems, last updated on Nov 24, 2026.
 
 <br clear="left">
 
@@ -56,18 +56,18 @@ This master list connects you to every category list, helping you explore jobs a
 
 | List | Who it is for | Open jobs in latest refresh | Rows shown | Newest posting |
 |---|---|---|---|---|
-| [Remote jobs](https://github.com/Jobhacki/remote-jobs) | people who want to work from home or from anywhere | 59,868 | 150 | 2026-11-23 |
-| [Entry-level jobs](https://github.com/Jobhacki/entry-level-jobs) | first-job seekers and career starters | 26,094 | 150 | 2026-11-23 |
-| [Nursing jobs](https://github.com/Jobhacki/nursing-jobs) | nurses (RN, LPN, NP and more) | 22,887 | 150 | 2026-11-23 |
-| [Healthcare jobs](https://github.com/Jobhacki/healthcare-jobs) | clinical, caregiving and medical-office job seekers | 60,988 | 150 | 2026-11-23 |
-| [Tech and software jobs](https://github.com/Jobhacki/tech-jobs) | software engineers, IT and security professionals | 30,192 | 150 | 2026-11-23 |
-| [AI and machine learning jobs](https://github.com/Jobhacki/ai-jobs) | ML engineers, AI researchers and applied-AI builders | 2,759 | 150 | 2026-11-23 |
-| [Sales jobs](https://github.com/Jobhacki/sales-jobs) | SDRs, account executives and sales leaders | 34,957 | 150 | 2026-11-23 |
-| [Customer service and support jobs](https://github.com/Jobhacki/customer-service-jobs) | support, service and customer-success pros | 16,252 | 150 | 2026-11-23 |
-| [Internships and new-grad jobs](https://github.com/Jobhacki/internships-new-grad-2027) | students and recent graduates (class of 2027 and nearby) | 16,154 | 150 | 2026-11-23 |
-| [Finance and accounting jobs](https://github.com/Jobhacki/finance-accounting-jobs) | accountants, analysts and finance professionals | 12,582 | 150 | 2026-11-23 |
-| [Marketing jobs](https://github.com/Jobhacki/marketing-jobs) | marketers, growth and brand professionals | 11,511 | 150 | 2026-11-23 |
-| [Trucking and logistics jobs](https://github.com/Jobhacki/trucking-logistics-jobs) | drivers, warehouse and logistics workers | 20,383 | 150 | 2026-11-23 |
+| [Remote jobs](https://github.com/Jobhacki/remote-jobs) | people who want to work from home or from anywhere | 60,177 | 150 | 2026-11-24 |
+| [Entry-level jobs](https://github.com/Jobhacki/entry-level-jobs) | first-job seekers and career starters | 26,157 | 150 | 2026-11-24 |
+| [Nursing jobs](https://github.com/Jobhacki/nursing-jobs) | nurses (RN, LPN, NP and more) | 22,734 | 150 | 2026-11-24 |
+| [Healthcare jobs](https://github.com/Jobhacki/healthcare-jobs) | clinical, caregiving and medical-office job seekers | 62,409 | 150 | 2026-11-24 |
+| [Tech and software jobs](https://github.com/Jobhacki/tech-jobs) | software engineers, IT and security professionals | 30,071 | 150 | 2026-11-24 |
+| [AI and machine learning jobs](https://github.com/Jobhacki/ai-jobs) | ML engineers, AI researchers and applied-AI builders | 2,814 | 150 | 2026-11-24 |
+| [Sales jobs](https://github.com/Jobhacki/sales-jobs) | SDRs, account executives and sales leaders | 35,351 | 150 | 2026-11-24 |
+| [Customer service and support jobs](https://github.com/Jobhacki/customer-service-jobs) | support, service and customer-success pros | 16,410 | 150 | 2026-11-24 |
+| [Internships and new-grad jobs](https://github.com/Jobhacki/internships-new-grad-2027) | students and recent graduates (class of 2027 and nearby) | 16,298 | 150 | 2026-11-24 |
+| [Finance and accounting jobs](https://github.com/Jobhacki/finance-accounting-jobs) | accountants, analysts and finance professionals | 12,358 | 150 | 2026-11-24 |
+| [Marketing jobs](https://github.com/Jobhacki/marketing-jobs) | marketers, growth and brand professionals | 11,596 | 150 | 2026-11-24 |
+| [Trucking and logistics jobs](https://github.com/Jobhacki/trucking-logistics-jobs) | drivers, warehouse and logistics workers | 20,056 | 150 | 2026-11-24 |
 
 Counts are the open jobs seen on employer hiring systems in the latest refresh, United States plus remote roles with no country set, one row per job link. A job can appear in more than one list (for example remote and entry-level).
 
@@ -84,9 +84,9 @@ To explore the full directory, install the free JobHacki Chrome extension and si
 <details>
 <summary><b>How these lists are built</b></summary>
 
-- The lists are built from the JobHacki job board. **Last updated: 2026-11-23 20:17 UTC.** Each list shows its own freshest rows from that update.
+- The lists are built from the JobHacki job board. **Last updated: 2026-11-24 00:18 UTC.** Each list shows its own freshest rows from that update.
 - These GitHub lists only include jobs from public company hiring systems (ATS). They leave out hidden job boards, such as static "general apply" pages on company websites, Notion boards and others. Each list is also a short, fresh slice, not the whole directory.
-- The full directory holds 1,470,278 listings across all countries (headline: **1.4M+**). 910,284 of them are in the default United States view (US listings plus remote roles with no country set); switch to all countries for the rest.
+- The full directory holds 1,475,123 listings across all countries (headline: **1.4M+**). 913,980 of them are in the default United States view (US listings plus remote roles with no country set); switch to all countries for the rest.
 
 </details>
 
